@@ -1,0 +1,33 @@
+body {
+    font-size: 19px;
+    background-color: skyblue;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+form {
+    width: 65%;
+    margin: 50px auto;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+}
+
+header{
+align:center;
+}
+
+        button {
+           position: fixed;
+           left: 50%;
+        }
+
+
+
